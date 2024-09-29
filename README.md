@@ -31,21 +31,37 @@ Key statistics are calculated for each nutritional component:
 **Dataset Description**
 
 The dataset consists of 77 different cereals with the following attributes:
+
 name: Name of the cereal.
+
 mfr: Manufacturer (K: Kellogg's, G: General Mills, P: Post, etc.).
+
 type: Cold (C) or Hot (H) cereal.
+
 calories: Calories per serving.
+
 protein: Grams of protein per serving.
+
 fat: Grams of fat per serving.
+
 sodium: Milligrams of sodium per serving.
+
 fiber: Grams of dietary fiber per serving.
+
 carbo: Grams of complex carbohydrates per serving.
+
 sugars: Grams of sugars per serving.
+
 potass: Milligrams of potassium per serving.
+
 vitamins: Percentage of FDA recommended vitamins per serving.
+
 shelf: Display shelf (1, 2, or 3).
+
 weight: Weight in ounces of one serving.
+
 cups: Number of cups per serving.
+
 rating: Consumer rating of the cereal.
 
 
