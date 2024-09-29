@@ -74,19 +74,25 @@ Open the Jupyter Notebook and run the cells sequentially to perform the analysis
 **Required Libraries**
 
 **pandas**
+
 **numpy**
+
 **matplotlib** (For adding visualizations)
+
 **seaborn** (For adding visualizations)
+
 **Plotly** (For interactive visualizations)
 
 **Running the Project**
 
 Install the necessary libraries using the following command:
-Copy code
+
 pip install pandas matplotlib seaborn
+
 Launch the Jupyter notebook:
-Copy code
+
 jupyter notebook
+
 Open the 80_Cereals.ipynb file and run the cells in order.
 
 **Results**
