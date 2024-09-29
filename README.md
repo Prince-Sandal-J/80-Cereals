@@ -84,6 +84,10 @@ Open the Jupyter Notebook and run the cells sequentially to perform the analysis
 **Plotly** (For interactive visualizations)
 
 
+**Analytics Result**
+
+
+For the detailed outcome of this whole project, the results are saved in [healthiest cereals.pdf].
 
 **Running the Project:**
 
