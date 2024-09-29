@@ -2,23 +2,23 @@
 
 This project analyzes a dataset of cereals with the goal of understanding their nutritional values and characteristics. It explores relationships between various nutritional components and addresses any data quality issues.
 
-**Project Structure**
+**Project Structure:**
 
 The Jupyter Notebook is divided into the following sections:
 
-**Introduction**
+**Introduction:**
 
 Brief overview of the dataset and the objectives of the analysis.
 
-**Loading the Data**
+**Loading the Data:**
 
 The cereal data is loaded into a Pandas DataFrame and basic checks are performed, such as displaying the first few rows and checking the structure of the dataset.
 
-**Data Cleaning**
+**Data Cleaning:**
 
 This section includes steps taken to ensure the quality of the data:
 
-**Handling missing or inconsistent values.**
+**Handling missing or inconsistent values:**
 
 **Replacing negative values** in specific columns like carbohydrates, sugars, and potassium with their absolute values.
 **Exploratory Data Analysis (EDA)**
@@ -28,7 +28,7 @@ Key statistics are calculated for each nutritional component:
 **Manufacturer breakdown**: Counts of cereals produced by each manufacturer.
 **Visualization**: Any plots or charts generated to visualize the relationships between different nutritional values.
 
-**Dataset Description**
+**Dataset Description:**
 
 The dataset consists of 77 different cereals with the following attributes:
 
@@ -65,13 +65,13 @@ cups: Number of cups per serving.
 rating: Consumer rating of the cereal.
 
 
-**How to Use**
+**How to Use:**
 
 Clone or download the repository.
 Ensure you have Python installed with the necessary packages such as pandas.
 Open the Jupyter Notebook and run the cells sequentially to perform the analysis.
 
-**Required Libraries**
+**Required Libraries:**
 
 **pandas**
 
@@ -83,7 +83,9 @@ Open the Jupyter Notebook and run the cells sequentially to perform the analysis
 
 **Plotly** (For interactive visualizations)
 
-**Running the Project**
+
+
+**Running the Project:**
 
 Install the necessary libraries using the following command:
 
@@ -95,7 +97,8 @@ jupyter notebook
 
 Open the 80_Cereals.ipynb file and run the cells in order.
 
-**Results**
+
+**Results:**
 
 The analysis provides insights into the nutritional content of various cereals.
 Negative values in certain columns (e.g., carbohydrates, sugars, potassium) were corrected by taking their absolute values.
